@@ -1,4 +1,4 @@
 # Coffee Machine
-simple coffee machine program with OOP
+Simple Coffee Machine Program
 
-- Day 16 | 100 day of python
+Day 16 | 100 day of python
